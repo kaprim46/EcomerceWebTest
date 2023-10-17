@@ -1,0 +1,397 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/obj/Debug/net7.0/scopedcss/projectbundle/EcommerceWebTest.bundle.scp.css",
+      "PackagePath": "staticwebassets/EcommerceWebTest.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/images/.DS_Store",
+      "PackagePath": "staticwebassets/images/.DS_Store"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/images/book.png",
+      "PackagePath": "staticwebassets/images/book.png"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/images/lawn_leaf.jpg",
+      "PackagePath": "staticwebassets/images/lawn_leaf.jpg"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/images/product/138bce2d-13c9-4f6f-90a8-42975550d4f4.jpg",
+      "PackagePath": "staticwebassets/images/product/138bce2d-13c9-4f6f-90a8-42975550d4f4.jpg"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/images/product/3e39dd43-9c56-485b-b696-8a5f7770bf4c.jpg",
+      "PackagePath": "staticwebassets/images/product/3e39dd43-9c56-485b-b696-8a5f7770bf4c.jpg"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/images/product/401197d1-b27f-400c-84b5-faaace699019.jpg",
+      "PackagePath": "staticwebassets/images/product/401197d1-b27f-400c-84b5-faaace699019.jpg"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/images/product/62344932-decf-4c5e-8fa6-0735eb54c635.jpg",
+      "PackagePath": "staticwebassets/images/product/62344932-decf-4c5e-8fa6-0735eb54c635.jpg"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/images/product/75a280b4-b154-4420-a6cc-5696fdcc0439.jpg",
+      "PackagePath": "staticwebassets/images/product/75a280b4-b154-4420-a6cc-5696fdcc0439.jpg"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/images/product/aaaa0451-3fd0-491c-9cc7-b9298fc856ec.jpg",
+      "PackagePath": "staticwebassets/images/product/aaaa0451-3fd0-491c-9cc7-b9298fc856ec.jpg"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/images/product/b5687a16-2a65-4e28-94f3-5bf0ff54c750.jpg",
+      "PackagePath": "staticwebassets/images/product/b5687a16-2a65-4e28-94f3-5bf0ff54c750.jpg"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/images/product/b76f1583-3640-4b6d-96c2-e38e8c7bbc30.jpg",
+      "PackagePath": "staticwebassets/images/product/b76f1583-3640-4b6d-96c2-e38e8c7bbc30.jpg"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/images/product/cefb69b3-99f6-486f-9fb2-327d831619a6.jpg",
+      "PackagePath": "staticwebassets/images/product/cefb69b3-99f6-486f-9fb2-327d831619a6.jpg"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/images/product/e88d7b43-5bec-470b-b984-f0d83e2e4300.jpg",
+      "PackagePath": "staticwebassets/images/product/e88d7b43-5bec-470b-b984-f0d83e2e4300.jpg"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/images/product/e972d186-5fca-4a93-86d6-9c588d4e85ff.jpg",
+      "PackagePath": "staticwebassets/images/product/e972d186-5fca-4a93-86d6-9c588d4e85ff.jpg"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/images/product/f4f74d98-3617-44db-93bd-1b1b885195c3.jpg",
+      "PackagePath": "staticwebassets/images/product/f4f74d98-3617-44db-93bd-1b1b885195c3.jpg"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/images/product/fffaefb6-96af-4bf8-9f00-ab850103701b.jpg",
+      "PackagePath": "staticwebassets/images/product/fffaefb6-96af-4bf8-9f00-ab850103701b.jpg"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/images/products/product-1/ed085dd0-23ae-4cb6-94dd-f28372b35312.jpg",
+      "PackagePath": "staticwebassets/images/products/product-1/ed085dd0-23ae-4cb6-94dd-f28372b35312.jpg"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/images/products/product-1/f7c6cc11-f86a-4a0b-9ca2-026ada0e2054.jpg",
+      "PackagePath": "staticwebassets/images/products/product-1/f7c6cc11-f86a-4a0b-9ca2-026ada0e2054.jpg"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/images/products/product-2/1510c865-41a6-4c41-8d42-4eb6eea0399f.jpg",
+      "PackagePath": "staticwebassets/images/products/product-2/1510c865-41a6-4c41-8d42-4eb6eea0399f.jpg"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/images/products/product-2/cd52590b-ecf2-40b1-a2e3-10c4d14854b9.jpg",
+      "PackagePath": "staticwebassets/images/products/product-2/cd52590b-ecf2-40b1-a2e3-10c4d14854b9.jpg"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/images/products/product-3/681ddbbd-874a-4383-9fef-cb27a749d766.jpg",
+      "PackagePath": "staticwebassets/images/products/product-3/681ddbbd-874a-4383-9fef-cb27a749d766.jpg"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/images/products/product-3/ccdc4975-7ea5-4bfe-97a9-36ce00a8aae2.jpg",
+      "PackagePath": "staticwebassets/images/products/product-3/ccdc4975-7ea5-4bfe-97a9-36ce00a8aae2.jpg"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/images/products/product-4/698916ec-44bc-4583-8c39-210351114fdc.jpg",
+      "PackagePath": "staticwebassets/images/products/product-4/698916ec-44bc-4583-8c39-210351114fdc.jpg"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/images/products/product-4/852fd460-ab1b-4bb1-a26c-cddad92b288d.jpg",
+      "PackagePath": "staticwebassets/images/products/product-4/852fd460-ab1b-4bb1-a26c-cddad92b288d.jpg"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/images/products/product-5/6fa0be6b-fb28-408b-8fd4-50a5c3ca6b6b.jpg",
+      "PackagePath": "staticwebassets/images/products/product-5/6fa0be6b-fb28-408b-8fd4-50a5c3ca6b6b.jpg"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/images/products/product-5/c59cca2e-4f54-4a7d-ad88-126bd275247d.jpg",
+      "PackagePath": "staticwebassets/images/products/product-5/c59cca2e-4f54-4a7d-ad88-126bd275247d.jpg"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/images/products/product-6/085cfee8-81fe-4ba4-938c-865d75d07276.jpg",
+      "PackagePath": "staticwebassets/images/products/product-6/085cfee8-81fe-4ba4-938c-865d75d07276.jpg"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/images/products/product-6/c91a457a-a682-40f1-8d10-1918cefdcb7f.jpg",
+      "PackagePath": "staticwebassets/images/products/product-6/c91a457a-a682-40f1-8d10-1918cefdcb7f.jpg"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/js/Company.js",
+      "PackagePath": "staticwebassets/js/Company.js"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/js/Order.js",
+      "PackagePath": "staticwebassets/js/Order.js"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/js/Product.js",
+      "PackagePath": "staticwebassets/js/Product.js"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/js/User.js",
+      "PackagePath": "staticwebassets/js/User.js"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/marouanekrizi/Projects/EcommerceWebTest/EcomerceWebTest/EcommerceWebTest/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.EcommerceWebTest.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.EcommerceWebTest.props",
+      "PackagePath": "build\\EcommerceWebTest.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.EcommerceWebTest.props",
+      "PackagePath": "buildMultiTargeting\\EcommerceWebTest.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.EcommerceWebTest.props",
+      "PackagePath": "buildTransitive\\EcommerceWebTest.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
